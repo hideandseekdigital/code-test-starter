@@ -87,10 +87,13 @@ There are no Figma Design Files
 
 #### Testing
 
-- **Jest** - Test components using Jest
+- **Frontend Testing** - Jest/Vitest for component testing
+- **Backend Testing** - Supertest/Vitest for API testing
+- **Integration Testing** - End-to-end or integration test framework
 - **Coverage** - Test critical paths (cart operations, components)
 - **Meaningful Tests** - Test behavior, not implementation details
-- **Total Tests** - 11
+- **Max Tests** - 20
+- **Testing Coverage Areas** - Frontend, Backend & Integrations
 
 #### Constants
 
